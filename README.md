@@ -1,3 +1,5 @@
+![](https://github.com/tavaresrafa/react-chuck-norris-facts/blob/master/src/assets/img/chucknorris_logo.png)
+
 # App to search for Chuck Norris Facts
 
 `HTTPS (SSL) Link:` [react-chuck-facts.surge.sh](https://react-chuck-facts.surge.sh/)
