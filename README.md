@@ -47,13 +47,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will automatically reload if you make changes to the code.<br>
 You will see the build errors and lint warnings in the console.
 
-### How to test
+## How to test
 
 `npm test` or `yarn test`
 
 Launches the test runner in the interactive watch mode.<br />
 
-### How to run storybook
+## How to run storybook
 
 `npm run storybook` or `yarn storybook`
 
