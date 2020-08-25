@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<blockquote
+  className="sc-AxjAm hvldEi"
+>
+  <p
+    data-testid="card"
+  >
+    Chuck Norry Jokes
+  </p>
+</blockquote>
+`;

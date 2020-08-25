@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<header
+  className="sc-AxjAm djeBuX"
+>
+  <picture
+    className="sc-AxirZ dRTkRp"
+  >
+    <source
+      media="(min-width: 800px)"
+      srcSet="chucknorris_logo.png 1x, chucknorris_logo.png 2x"
+    />
+    <source
+      media="(min-width: 400px)"
+      srcSet="chucknorris_logo.png 1x, chucknorris_logo.png 2x"
+    />
+    <source
+      srcSet="chucknorris_logo.png 1x, chucknorris_logo.png 2x"
+    />
+    <img
+      alt="Logo do site."
+      src="chucknorris_logo.png"
+    />
+  </picture>
+</header>
+`;
