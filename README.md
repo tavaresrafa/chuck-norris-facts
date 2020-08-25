@@ -20,11 +20,11 @@ For secure communication used HTTPS (SSL).
 
 ## Technologies
 List of main languages and libraries used in this project:
-- Styles-Components
 - ReactJS
 - Jest / React Testing Library
 - Storybook
 - Context Api
+- Styles-Components
 - Webpack
 - Babel
 - Axios
