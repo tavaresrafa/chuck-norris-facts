@@ -36,7 +36,7 @@ export const JokeProvider = ({ children }) => {
       }
     })
 
-    cleanCards();
+    cleanCardList();
   }
 
   const handleRandomSearch = () => {
@@ -48,7 +48,7 @@ export const JokeProvider = ({ children }) => {
     })
     .catch((error) => console.log(error))
 
-    cleanCards();
+    cleanCardList();
     setShowSeeMoreButton(false);
   }
 
@@ -58,7 +58,7 @@ export const JokeProvider = ({ children }) => {
     }
   }
 
-  const cleanCards = () => {
+  const cleanCardList = () => {
     setJokes([]);
     setRandomJoke({});
     setJokesToShow([]);
