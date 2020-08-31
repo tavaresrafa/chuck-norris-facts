@@ -31,9 +31,10 @@ List of main languages and libraries used in this project:
 - Babel
 - Axios
 
-## Methodology
+## Methodologies
 - Mobile First
 - CSS in JS
+- CI/CD
 
 ## How to run
 
