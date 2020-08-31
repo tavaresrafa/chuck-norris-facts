@@ -19,7 +19,7 @@ jobs:
       run: npm install
     - name: Deploy to GH Pages
       run: |
-        git config user.email ${{secrets.MY_EMAIL}}
-        git config user.name ${{secrets.MY_USERNAME}}
-        git remote set-url origin https://${{secrets.ACCESS_TOKEN}}@github.com/${{secrets.MY_USERNAME}}/your_repo>
+        git config --global user.email "rafael.sousat@gmail.com"
+        git config --global user.name "Rafael Tavares"
+        git remote set-url origin https://github.com/tavaresrafa/react-chuck-norris-facts
         npm run deploy
