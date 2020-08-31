@@ -34,7 +34,7 @@ List of main languages and libraries used in this project:
 ## Methodologies
 - Mobile First
 - CSS in JS
-- CI/CD(Github Actions)
+- CI/CD (Github Actions)
 
 ## How to run
 
