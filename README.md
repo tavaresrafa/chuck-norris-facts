@@ -2,7 +2,7 @@
 
 # App to search for Chuck Norris Facts
 
-`HTTPS (SSL) Link:` [react-chuck-facts.surge.sh](https://react-chuck-facts.surge.sh/)
+`GH-PAGE:` [react-chuck-facts.surge.sh](https://tavaresrafa.github.io/react-chuck-norris-facts/)
 
 ## Applied Technologies
 
@@ -34,7 +34,7 @@ List of main languages and libraries used in this project:
 ## Methodologies
 - Mobile First
 - CSS in JS
-- CI/CD
+- CI/CD (Github Actions)
 
 ## How to run
 
