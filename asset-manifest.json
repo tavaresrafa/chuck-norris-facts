@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/react-chuck-norris-facts/static/js/main.887074ec.chunk.js",
+    "main.js.map": "/react-chuck-norris-facts/static/js/main.887074ec.chunk.js.map",
+    "runtime-main.js": "/react-chuck-norris-facts/static/js/runtime-main.370e996a.js",
+    "runtime-main.js.map": "/react-chuck-norris-facts/static/js/runtime-main.370e996a.js.map",
+    "static/js/2.604016fd.chunk.js": "/react-chuck-norris-facts/static/js/2.604016fd.chunk.js",
+    "static/js/2.604016fd.chunk.js.map": "/react-chuck-norris-facts/static/js/2.604016fd.chunk.js.map",
+    "index.html": "/react-chuck-norris-facts/index.html",
+    "precache-manifest.e6de42df8cf15839c507e6c24488dcac.js": "/react-chuck-norris-facts/precache-manifest.e6de42df8cf15839c507e6c24488dcac.js",
+    "service-worker.js": "/react-chuck-norris-facts/service-worker.js",
+    "static/js/2.604016fd.chunk.js.LICENSE.txt": "/react-chuck-norris-facts/static/js/2.604016fd.chunk.js.LICENSE.txt",
+    "static/media/chucknorris_logo.png": "/react-chuck-norris-facts/static/media/chucknorris_logo.d2080adf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.370e996a.js",
+    "static/js/2.604016fd.chunk.js",
+    "static/js/main.887074ec.chunk.js"
+  ]
+}
