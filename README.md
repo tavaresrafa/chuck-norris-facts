@@ -26,15 +26,15 @@ List of main languages and libraries used in this project:
 - Jest / React Testing Library
 - Storybook
 - Context Api
-- Styles-Components
+- Styled-Components
 - Webpack
 - Babel
 - Axios
 
-## Methodologies
+## Concepts / Methodologies
 - Mobile First
 - CSS in JS
-- CI/CD(Github Actions)
+- CI/CD (Github Actions)
 
 ## How to run
 
