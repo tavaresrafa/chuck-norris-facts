@@ -2,7 +2,7 @@
 
 # App to search for Chuck Norris Facts
 
-`GH-PAGE:` [react-chuck-facts.surge.sh](https://tavaresrafa.github.io/react-chuck-norris-facts/)
+`GH-PAGE:` [https://tavaresrafa.github.io/react-chuck-norris-facts/](https://tavaresrafa.github.io/react-chuck-norris-facts/)
 
 ## Applied Technologies
 
