@@ -21,5 +21,5 @@ jobs:
       run: |
         git config --global user.email "rafael.sousat@gmail.com"
         git config --global user.name "Rafael Tavares"
-        git remote set-url origin https://tavaresrafa:5840b327e374e90a2a2a117a324ba4268f67dfc6@github.com/tavaresrafa/react-chuck-norris-facts.git
+        git remote set-url origin https://${{secrets.MY_USERNAME}}:${{secrets.ACCESS_TOKEN}}@github.com/${{secrets.MY_USERNAME}}/react-chuck-norris-facts
         npm run deploy
