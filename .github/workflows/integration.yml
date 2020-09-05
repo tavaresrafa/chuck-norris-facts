@@ -21,7 +21,7 @@ jobs:
     - name: Installing Packages 📦
       run: npm install
 
-    - name: Running Tests 🔎
+    - name: Running Tests 🧪
       run: npm test
 
     - name: Deploying 🚀
