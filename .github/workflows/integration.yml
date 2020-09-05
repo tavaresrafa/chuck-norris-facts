@@ -24,7 +24,7 @@ jobs:
     - name: Running Tests 🔎
       run: npm test
 
-    - name: Deploy 🚀
+    - name: Deploying 🚀
       run: |
         git config user.email ${{secrets.MY_EMAIL}}
         git config user.name ${{secrets.MY_USERNAME}}
